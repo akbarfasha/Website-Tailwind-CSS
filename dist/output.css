@@ -1232,4 +1232,8 @@ body {
     margin-left: 2rem;
     margin-right: 2rem;
   }
+
+  .xl\:w-10\/12 {
+    width: 83.333333%;
+  }
 }
